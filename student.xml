@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student id="1">
+        <name>Rahul</name>
+        <age>21</age>
+        <course>Computer Science</course>
+    </student>
+
+    <student id="2">
+        <name>Priya</name>
+        <age>22</age>
+        <course>Information Technology</course>
+    </student>
+
+    <student id="3">
+        <name>Amit</name>
+        <age>20</age>
+        <course>Data Science</course>
+    </student>
+</students>
